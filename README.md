@@ -1,7 +1,17 @@
-Welcome to my ePortfolio!
+### Hi there 👋, my name is Matthew!
+#### Welcome to my ePortfolio!
+![CMS CyberVets Intern](https://media-exp1.licdn.com/dms/image/C4E1BAQH4548VtKNWrw/company-background_10000/0/1648481343958?e=1648738800&v=beta&t=KlozCosqCaZle49Dbju6fsnWyHCI0OT_faiPCupf_nA)
 
-I am an aspiring cybersecuirty analyst, and in this space you will find projects that I have worked on as well as a journal that documents my experience learning various tools and skills utilized within cybersecurity.
+I am an aspiring cybersecuirty analyst, and in this space you will find projects that I have worked on as well as a journal that documents my experience learning various tools and skills utilized within cybersecurity. 
 
-This begins with my impending transition out of the military and my current internship with the Centers for Medicaid and Medicare Services (CMS) CyberVets program. This internship is a DoD-approved SkillBridge program and is a six-month rotation at CMS where service members engage in problem-based, “on the job” cybersecurity training. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
+As I am transitioning out of the military, I am looking to combine my analytic background with the technical skills and toolsets I am learning through the CMS CyberVets Program to allow me to better identify and defend against threats in the cyber domain. 
 
-I intend to keep growing this ePortfolio, even after my internship, as I continue my journey through this field; eventually showing my compentencies, achievements, certifications, and the people and resources that have helped me along the way.
+Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
+
+- 🔭 I’m currently working on Completing my DoD SkillBridge 
+- 🌱 I’m currently learning Advanced Web Exploitation 
+- 🤔 I’m looking for help with Building a Home Lab 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matthewjellis16//)  
+
