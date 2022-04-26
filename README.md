@@ -4,7 +4,7 @@
 
 I am an aspiring cybersecuirty analyst, and in this space you will find projects that I have worked on as well as a journal that documents my experience learning various tools and skills utilized within cybersecurity. 
 
-As I am transitioning out of the military, I am looking to combine my analytic background with the technical skills and toolsets I am learning through the CMS CyberVets Program to allow me to better identify and defend against threats in the cyber domain. 
+As I am transitioning out of the military, I am looking to combine my analytic background with the technical skills and toolsets I am learning through the CMS CyberVets Program to enable me to better identify and defend against threats in the cyber domain. 
 
 Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
 
