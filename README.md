@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Matthew!
 #### Welcome to my ePortfolio!
-![CMS CyberVets Intern](https://media-exp1.licdn.com/dms/image/C4E1BAQH4548VtKNWrw/company-background_10000/0/1648481343958?e=2147483647&v=beta&t=36jJpUQqQmJo4sFX37XEKlllxGuZVX-p8CbVBCmMOdc)
+![CMS CyberVets Intern](https://camo.githubusercontent.com/fd2ba29b17314a28305969722d14bea4429b426222aff344d00a46eae71a1ae0/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531424151483435343856744b4e5772772f636f6d70616e792d6261636b67726f756e645f31303030302f302f313634383438313334333935383f653d3231343734383336343726763d6265746126743d33366a4a70555171516d4a6f34734658333758454b6c6c6c7847755a56582d703843625642436d4d4f6463)
 
 I am an aspiring cybersecuirty analyst, and in this space you will find projects that I have worked on as well as a journal that documents my experience learning various tools and skills utilized within cybersecurity. 
 
