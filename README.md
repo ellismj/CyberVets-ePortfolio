@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Matthew!
 #### Welcome to my ePortfolio!
-![CMS CyberVets Intern](https://media-exp1.licdn.com/dms/image/C4E1BAQH4548VtKNWrw/company-background_10000/0/1648481343958?e=1648738800&v=beta&t=KlozCosqCaZle49Dbju6fsnWyHCI0OT_faiPCupf_nA)
+![CMS CyberVets Intern](https://media-exp1.licdn.com/dms/image/C4E1BAQH4548VtKNWrw/company-background_10000/0/1648481343958?e=2147483647&v=beta&t=36jJpUQqQmJo4sFX37XEKlllxGuZVX-p8CbVBCmMOdc)
 
 I am an aspiring cybersecuirty analyst, and in this space you will find projects that I have worked on as well as a journal that documents my experience learning various tools and skills utilized within cybersecurity. 
 
@@ -18,8 +18,7 @@ Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essenti
 ## In my [Wiki](https://github.com/ellismj/ellismj/wiki) you will find the following:
 
 * [Resume](https://github.com/ellismj/ellismj/wiki/Resume) 
-* [LinkedIn Page](https://www.linkedin.com/in/matthewjellis16/) 
-* [Projects](https://github.com/ellismj?tab=projects&type=beta) 
+* [LinkedIn Page](https://www.linkedin.com/in/matthewjellis16/)  
 
 ## Below are some of the [Projects](https://github.com/ellismj?tab=projects&type=beta) I have completed or am currently working on.
 
