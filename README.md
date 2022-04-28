@@ -8,7 +8,7 @@ As I am transitioning out of the military, I am looking to combine my analytic b
 
 Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
 
-- 🔭 I’m currently working on Developing this ePortfolio! 
+- 🔭 I’m currently working on Developing this ePortfolio 
 - 🌱 I’m currently learning SOC Tools and Techniques
 - 🤔 I’m looking for help with Building a Home Lab 
 
