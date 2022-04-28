@@ -17,8 +17,8 @@ Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essenti
 
 ## In my [Wiki](https://github.com/ellismj/ellismj/wiki) you will find the following:
 
-* [Resume](https://github.com/ellismj/ellismj/wiki/Resume) 
-* [LinkedIn Page](https://www.linkedin.com/in/matthewjellis16/)  
+* A bit of [Background](https://github.com/ellismj/ellismj/wiki) on me
+* My latest [Resume](https://github.com/ellismj/ellismj/wiki/Resume)   
 
 ## Below are some of the [Projects](https://github.com/ellismj?tab=projects&type=beta) I have completed or am currently working on.
 
