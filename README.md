@@ -10,7 +10,7 @@ Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essenti
 
 - 🔭 I’m currently working on Indexing my SANS SEC401 Study Materials
 - 🌱 I’m currently learning about the Risk Management Framework at CMS
-- 🤔 I’m looking for help with Building a Home Lab 
+- 🤔 I’m looking for help with Organizing my Notes
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matthewjellis16/)  
