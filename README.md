@@ -24,7 +24,7 @@ Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essenti
 
 * [ESCALATE Challenges](https://github.com/users/ellismj/projects/1) - Here I will document my experiences with each challenge. This will cover both my successes and failures within the ESCALATE platform, and it will be a way to track my learning through this program. 
 * [CMS CyberVets Program Progess](https://github.com/users/ellismj/projects/2) - This section will summarize the daily and weekly events as we progress through the program. It will include everything about our schedule such as lessons, meetings, and various other events.
-* [Additional Achievements and Competenecies](https://github.com/users/ellismj/projects/3) - Finally, any achievements, certifications, and competencies earned through my internship with the CMS CyberVets Program or elsewehere will be added here.
+* [Courses, Certifications, and Badges](https://github.com/users/ellismj/projects/3) - Finally, the courses, certifications, and badges I am interested in pursuing, whether through my internship with the CMS CyberVets Program or elsewehere, will be added here.
 
 
 ## Credits
