@@ -9,8 +9,8 @@ As I am transitioning out of the military, I am looking to combine my analytic b
 Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
 
 - 🔭 I’m currently working on Indexing my SANS SEC401 Study Materials
-- 🌱 I’m currently learning about the Risk Management Framework at CMS
-- 🤔 I’m looking for help with Organizing my Notes
+- 🌱 I’m currently learning about the Windows Enterprise Security
+- 🤔 I’m looking for help with Setting up a Home Lab
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matthewjellis16/)  
