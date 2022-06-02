@@ -6,9 +6,9 @@ I am an aspiring cybersecuirty analyst, and in this space you will find projects
 
 As I am transitioning out of the military, I am looking to combine my analytic background with the technical skills and toolsets I am learning through the CMS CyberVets Program to enable me to better identify and defend against threats in the cyber domain. 
 
-Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
+Skills: Network Traffic Analysis | Network Vulnerability Assessments | Binary Analysis | Web Exploitation | Windows and Linux Security Essentials
 
-- 🔭 I’m currently working on Indexing my SANS SEC401 Study Materials
+- 🔭 I’m currently working on Indexing for the GIAC Security Essentials (GSEC) certification
 - 🌱 I’m currently learning about Data Security Technologies
 - 🤔 I’m looking for help with Setting up a Home Lab
 
