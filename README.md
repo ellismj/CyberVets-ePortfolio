@@ -9,7 +9,7 @@ As I am transitioning out of the military, I am looking to combine my analytic b
 Skills: Network Analysis | Web Exploitation | Windows and Linux Security Essentials
 
 - 🔭 I’m currently working on Indexing my SANS SEC401 Study Materials
-- 🌱 I’m currently learning about the Windows Enterprise Security
+- 🌱 I’m currently learning about Data Security Technologies
 - 🤔 I’m looking for help with Setting up a Home Lab
 
 
