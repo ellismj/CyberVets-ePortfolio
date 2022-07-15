@@ -20,7 +20,7 @@ Skills: Network Traffic Analysis | Network Vulnerability Assessments | Binary An
 * A bit of [Background](https://github.com/ellismj/ellismj/wiki) on me
 * My latest [Resume](https://github.com/ellismj/ellismj/wiki/Resume)   
 
-## Below are some of the [Projects](https://github.com/ellismj?tab=projects&type=beta) I have completed or am currently working on.
+## Below are some of the [Projects](https://github.com/ellismj?tab=projects&type=beta) I am currently working on.
 
 * [ESCALATE Challenges](https://github.com/users/ellismj/projects/1) - Here I will document my experiences with each challenge. This will cover both my successes and failures within the ESCALATE platform, and it will be a way to track my learning through this program. 
 * [CMS CyberVets Program Progess](https://github.com/users/ellismj/projects/2) - This section will summarize the daily and weekly events as we progress through the program. It will include everything about our schedule such as lessons, meetings, and various other events.
